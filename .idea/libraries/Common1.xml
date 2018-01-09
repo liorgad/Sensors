@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Common1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../BmsEngine/out/artifacts/Common_jar/Common.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../BmsEngine/out/artifacts/Common_jar/Common.jar!/" />
+    </SOURCES>
+  </library>
+</component>

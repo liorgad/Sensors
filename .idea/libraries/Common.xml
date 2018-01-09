@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Common">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../BmsEngine/out/production/Common" />
+      <root url="file://$PROJECT_DIR$/../BmsEngine/out/production/SerialComm" />
+      <root url="file://$PROJECT_DIR$/../BmsEngine/out/production/HttpServer" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

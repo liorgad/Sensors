@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="commons-lang3-3.3.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../BmsEngine/lib/commons-lang3-3.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../BmsEngine/lib/log4j-api-2.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../BmsEngine/lib/log4j-core-2.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../BmsEngine/lib/rxtx-2.1.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

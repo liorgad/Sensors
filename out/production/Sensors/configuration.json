@@ -1,0 +1,31 @@
+{
+  "Sensors" : {
+    "WindSensorConfiguration": {
+      "address": 1,
+      "functionCode": 3,
+      "registerAddress": 0,
+      "numberOfRegister": 1,
+      "pollingIntervalMillisec": 1000
+    },
+    "TmpHULiSensorConfiguration": {
+      "address": 2,
+      "functionCode": 3,
+      "registerAddress": 0,
+      "numberOfRegister": 3,
+      "pollingIntervalMillisec": 1000
+    }
+  },
+  "Http" :
+  {
+    "Ip" : "0.0.0.0",
+    "Port" : 8888
+  },
+  "Serial" :
+  {
+    "PortName":"COM3",
+    "BaudRate":9600,
+    "ParityType":0,
+    "DataBits":8,
+    "StopBitsType":1
+  }
+}

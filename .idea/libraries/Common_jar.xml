@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Common_jar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../BmsEngine/out/artifacts/Common_jar" />
+      <root url="file://$PROJECT_DIR$/../BmsEngine/out/artifacts/SerialComm_jar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../BmsEngine/out/artifacts/Common_jar" />
+      <root url="file://$PROJECT_DIR$/../BmsEngine/out/artifacts/SerialComm_jar" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../BmsEngine/out/artifacts/Common_jar" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../BmsEngine/out/artifacts/SerialComm_jar" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../BmsEngine/out/artifacts/Common_jar" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../BmsEngine/out/artifacts/SerialComm_jar" recursive="false" type="SOURCES" />
+  </library>
+</component>

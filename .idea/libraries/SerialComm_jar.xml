@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SerialComm_jar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../BmsEngine/out/artifacts/SerialComm_jar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../BmsEngine/out/artifacts/SerialComm_jar" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../BmsEngine/out/artifacts/SerialComm_jar" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../BmsEngine/out/artifacts/SerialComm_jar" recursive="false" type="SOURCES" />
+  </library>
+</component>
